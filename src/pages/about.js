@@ -1,4 +1,7 @@
 import React from 'react';
+import '../styles/about.css';
+import Container from '../components/Container';
+
 
 function about() {
     return (

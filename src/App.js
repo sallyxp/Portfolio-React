@@ -16,12 +16,12 @@ import portfolio from "./pages/portfolio";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App fade-in">
       <Wrapper>
       <Router basename="Portfolio-React">
         <Navbar />
     
-                  <Switch location={location}> 
+                  {/* <Switch location={location}>  */}
                  
                     <Route exact path="/" component={home} />
                     <Route exact path="/about" component={about} />
@@ -29,7 +29,7 @@ function App() {
                     <Route exact path="/resume" component={resume} />
                     <Route exact path="/portfolio" component={portfolio} />
             
-                 </Switch>
+                {/* </Switch> */}
         </Router>
       </Wrapper>
     </div>
