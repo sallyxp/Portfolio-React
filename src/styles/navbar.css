@@ -1,0 +1,14 @@
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.75rem;
+    font-weight: 800;
+    padding-left:2rem;
+}
+
+nav li {
+    padding-left: 3rem;
+}
+
+.navbar {
+    padding: .5rem;
+}
