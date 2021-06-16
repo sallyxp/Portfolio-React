@@ -8,6 +8,7 @@ import Col from "../components/Col";
 
 function About() {
     return (
+       
         <div className="bg-dark text-light page" id="page-content">
             <Container className="bio">
                 <Row>
@@ -19,7 +20,7 @@ function About() {
 
                     <Col size="md-8" className="about">
                         <h1 className="summary">Summary</h1>
-                        <br />
+                      <br></br>
                         <h5> Hello! I am Sally Rodgers and I have been working within the IT Industry for more than 20 years.
                             I have an MSc in Computing Science and had been working particularly as a Database designer and programmer,
                             until
@@ -29,7 +30,7 @@ function About() {
                             expand
                             my horizons and develop new skills.
                         </h5>
-                        <br />
+                       <br></br>
                     </Col>      
                 </Row>
             
