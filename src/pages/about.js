@@ -3,18 +3,21 @@ import '../styles/about.css';
 import Container from '../components/Container';
 import Row from "../components/Row";
 import Col from "../components/Col";
+import portfolioImg from "../images/myProfilepic.PNG";
 
 
 
 function About() {
+
     return (
        
-        <div className="bg-dark text-light page" id="page-content">
+        <div className="bg-light text-dark page" id="page-content">
             <Container className="bio">
                 <Row>
                     <Col size="md-4">
                         <figure>
-                            <img id="bio-pic" className="img-fluid" src={process.env.PUBLIC_URL + "/images/myProfilepic.PNG"} alt="" />
+                        <img src={portfolioImg} alt="Birmimgham" className="img-thumbnail" /> 
+                           
                         </figure>
                     </Col>
 
