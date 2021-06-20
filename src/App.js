@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="App fade-in">
       <Wrapper>
-      <Router basename="Portfolio-React">
+      <Router basename={process.env.PUBLIC_URL}>
         <Navbar />
     
                   {/* <Switch location={location}>  */}
