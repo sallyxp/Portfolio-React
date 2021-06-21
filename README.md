@@ -13,7 +13,7 @@ This repository has been created to consolidate a 'first view' portfolio of earl
 
 To run this webpage, click on the link below:
 
-https://sallyxp.github.io/Portfolio-React/#/Portfolio-React/portfolioor open the HTML File with your default browser.
+https://sallyxp.github.io/Portfolio-React/#/Portfolio-React/portfolio open the HTML File with your default browser.
  
  # Usage
  
