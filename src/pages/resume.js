@@ -12,6 +12,14 @@ function Resume() {
                         <h1 className="resume-name">Sally Rodgers</h1>
                     </Col>
 
+                    <h5><i class="fab  blue fa-google"> </i> </h5>
+                       
+                        <h2 className="text-center contact">My CV</h2>
+                      
+                    <h5> <a href="https://drive.google.com/file/d/1aR7EbLE7CIa9lU8RjWXmNseDphJk49JV/view?usp=sharing"
+                        target="_blank"> Link to my CV</a></h5>
+
+
                 </Row>
             </Container>
         </div>

@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# React Portfolio
+(formerly Personal-Portfolio)
+This repository has been created to consolidate a 'first view' portfolio of early work created on my journey to become a Full Stack Web Developer.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1.  Link to CV: For further information, please email hellosally1@yahoo.com
 
-## Available Scripts
+2.  Link to Password Generator page: https://sallyxp.github.io/Password-Generator/
 
-In the project directory, you can run:
+3.  Link to Work Day Scheduler: https://sallyxp.github.io/Work-Day-Scheduler/
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Installation Instructions
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+To run this webpage, click on the link below:
 
-### `npm test`
+https://sallyxp.github.io/Portfolio-React/#/Portfolio-React/portfolioor open the HTML File with your default browser.
+ 
+ # Usage
+ 
+This repository contains an HTML page and associated files used to demonstrate my current abilities on my journey to become a Full Stack Web Developer. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+The site is one continuous web page, which is mobile-responsive, starting with a short biography.  The navigation bar navigates within the document, taking the user
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+and various icons & names of technologies used. Beneath the image is also a link to my CV, held on my Google Drive.  In addition this link is also listed above.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](ReadmeImages/HTML-part1-Summary.png)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![alt text](ReadmeImages/HTML-part2-Portfolio.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![alt text](ReadmeImages/HTML-part3-Portfolio.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+The next section contains a parallax image of Birmingham City Centre, and then below it, My Portfolio.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+The first item is a Week-Day-Scheduler, there is a brief description of it, a screenshot, a link to its Github Repository and another link to the deployed webpage.
 
-### Making a Progressive Web App
+The second item is an earlier project, a random password generator.  There is again an image of its landing page, a brief description, a link to its Github Repository and 
+also to its deployed website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The third item, a Few Fries Short, is a recent group collaboration written in node.js, javascript and mySQL2.  It uses the Model-View-Controller paradigm and allows the user to write reviews and comment on others (if logged into the system).
 
-### Advanced Configuration
+There is a sticky footer at the base of the page.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Technologies Used
 
-### Deployment
+The site is written using HTML 5, CSS 3, Materialize, Bootstrap and JavaScript.  Images have been cited within the repository.  Public images have been obtained via 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+unsplash.com.  Icons have been used from Font Awesome.
 
-### `npm run build` fails to minify
+# Contributors
+I should like to thank:
+Brian Lewicki and JJ Ying from Unsplash whose royalty-free images I have used within this project. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Licence
+
+The site is licensed with an MIT Licence - shown in the Github Repository.
+
+# Contact Information
+
+A link to my CV is above.  I am contactable on sallyhello1@yahoo.com.
+
+Sally Rodgers
+
+
+
