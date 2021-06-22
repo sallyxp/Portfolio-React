@@ -16,6 +16,16 @@ import Contact from "./pages/Contact";
 import Resume from "./pages/Resume";
 import Portfolio from "./pages/Portfolio";
 
+// import fontawesome from '@fortawesome/fontawesome';
+
+// import regular from '@fortawesome/free-regular-svg-icons'
+// import solid from '@fortawesome/free-solid-svg-icons'
+// import brands from '@fortawesome/free-brands-svg-icons'
+
+// fontawesome.library.add(regular)
+// fontawesome.library.add(solid)
+// fontawesome.library.add(brands)
+
 function App() {
   return (
     <div className="App fade-in">
