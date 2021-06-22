@@ -1,0 +1,24 @@
+.contact-header {
+    background: url("../images/brianLewicki-unsplash-1589352511666-341e33517a0b.jpg");
+    background-size: cover;
+    
+}
+
+.display-5 {
+    color: white;
+}
+.images img {
+    max-height: auto;
+    max-width:  auto;
+    padding: 1em;
+}
+
+.big-title {
+    background-color: white;
+    color:black;
+}
+
+.card-body{
+    background-color: white;
+    color:rgb(30, 8, 131);
+}

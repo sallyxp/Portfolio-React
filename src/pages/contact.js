@@ -4,14 +4,16 @@ import Row from "../components/Row";
 import Col from "../components/Col";
 import Wrapper from '../components/Wrapper';
 import '../styles/contact.css';
-
+import backgroundImg from "../images/brianLewicki-unsplash-1589352511666-341e33517a0b.jpg";
 
 
 function Contact() {
     return (
-        <div className="bg-dark text-light page" id="page-content">
+        <div className="bg-warning text-light page" id="page-content">
             <Wrapper className="bg-dark text-light">
                 <Container className="contact-header bg-dark text-light">
+                    <img src={backgroundImg} alt="Birmimgham" className="img-thumbnail" />
+
                     <Row className="bg-dark text-light">
                         <Col size="md-12" className="text-center bg-dark text-light">
                             <h2 className="text-center contact">Contact Details:</h2>

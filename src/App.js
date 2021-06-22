@@ -7,6 +7,7 @@ import './App.css';
 
 import Navbar from "./components/Navbar"
 import Wrapper from "./components/Wrapper";
+import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Home from "./pages/Home";
@@ -31,6 +32,8 @@ function App() {
                     <Route exact path="/portfolio" component={Portfolio} />
             
                 {/* </Switch> */}
+                
+            <Footer />
         </Router>
       </Wrapper>
     </div>
