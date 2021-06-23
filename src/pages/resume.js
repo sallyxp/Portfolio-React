@@ -5,7 +5,7 @@ import Col from "../components/Col";
 
 function Resume() {
     return (
-        <div className="bg-dark text-light page" id="page-content">
+        <div className="bg-info text-light page" id="page-content">
             <Container classname="bio">
                 <Row>
                     <Col size="sm-4" id="logo">
