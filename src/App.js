@@ -10,11 +10,11 @@ import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
-import Resume from "./pages/Resume";
-import Portfolio from "./pages/Portfolio";
+import Home from "./pages/home";
+import About from "./pages/about";
+import Contact from "./pages/contact";
+import Resume from "./pages/resume";
+import Portfolio from "./pages/portfolio";
 
 // import fontawesome from '@fortawesome/fontawesome';
 
