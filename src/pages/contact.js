@@ -15,7 +15,7 @@ function Contact() {
 
                     <div className="jumbotron fade-in">
                         <Row>
-                            <img src={backgroundImg}   alt="Birmimgham" className="img-thumbnail" />
+                            <img src={backgroundImg}  height="40%" width="40%" alt="Birmimgham" className="img-thumbnail" />
                             <h6 className=" display-4"> Contact Details </h6>
                        
                            
