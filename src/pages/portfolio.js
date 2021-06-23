@@ -10,7 +10,7 @@ import portfolioImg3 from "../images/Restaurantpage.png";
 function Portfolio() {
     return (
         <div className="bg-light text-blue page" id="page-content">
-            <div><h2 className="title text-center display-5">Portfolio</h2>
+            <div>
                 <h2 className="big-title">My Portfolio</h2>
             </div>
             <Container>

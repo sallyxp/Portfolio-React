@@ -16,7 +16,9 @@ function Contact() {
                     <div className="jumbotron fade-in">
                         <Row>
                             <img src={backgroundImg}   alt="Birmimgham" className="img-thumbnail" />
-                            <h6 className=" display-4"> Contact Details </h6>
+                            <h6 className=" height=40% display-4"> Contact Details </h6>
+                            <h4 class="indigo-text"> <a href="https://www.linkedin.com/in/sallyhello1/" target="_blank"> Link to my
+                                Linkedin page</a></h4>
                         </Row>
                         <Row>
                             <h4><i class="fab blue  fa-linkedin"> </i></h4>
