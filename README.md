@@ -30,7 +30,7 @@ The site is mobile-responsive.  The navigation bar navigates around the pages li
 
 ![alt text](ReadmeImages/HTML-part3-Portfolio.png)
 
-![alt text](ReadmeImages/HTML-part4-contact.png)
+![alt text](ReadmeImages/HTML-part4-Contact.png)
 
 ![alt text](ReadmeImages/HTML-part5-myCV.png)
 
